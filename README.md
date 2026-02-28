@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Karan%20Yadav&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yadav%20Karan%20Rajendra&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=55&descSize=20" />
 
 </div>
 
@@ -225,50 +225,6 @@ class KaranYadav {
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"> Git Stats
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karanyadav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=karanyadav&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanyadav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=karanyadav&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F" alt="Contribution Graph" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf0c-29f9-4ccd-9161-0f4bc7889d56.png" width="30px" alt="Trophy"> GitHub Trophies
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanyadav&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30px"> Activity Graph
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karanyadav&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
 
 <div align="center">
 
