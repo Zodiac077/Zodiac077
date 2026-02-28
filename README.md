@@ -15,11 +15,10 @@
 ```typescript
 class KaranYadav {
     constructor() {
-        this.name = "Karan Yadav";
+        this.name = "Yadav Karan Rajendra";
         this.education = "B.Tech in CSE";
         this.semester = "8th Semester";
         this.cgpa = 8.96;
-        this.achievement = "🏆 Rank #1 in 7th Semester";
         this.location = "India 🇮🇳";
     }
 
@@ -278,7 +277,7 @@ class KaranYadav {
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
@@ -314,9 +313,6 @@ class KaranYadav {
 
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling&fontColor=fff" width="100%" />
 
 <div align="center">
 
